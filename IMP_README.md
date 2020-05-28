@@ -9,3 +9,6 @@ You will find the ERP and E-ERP diagrams in the folder downloaded.
 
 Feel free to customized the website according to your business, I prefer to use Visual Studio! (ASP.NET, C#)
 Thank you for downloading this and I hope you enjoy the project
+
+Created by Mina Ramses.
+Copyright © 2019 Mina Ramses. All rights reserved.
