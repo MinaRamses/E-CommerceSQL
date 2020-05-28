@@ -11,4 +11,5 @@ Feel free to customized the website according to your business, I prefer to use 
 Thank you for downloading this and I hope you enjoy the project
 
 Created by Mina Ramses.
+
 Copyright © 2019 Mina Ramses. All rights reserved.
